@@ -5,8 +5,8 @@
 
 
 <p align="center">
-     <img src="Notes App.gif">
+     <img src="Notes App.gif" width="365px">
       <p align="center">
-       <b>HOME PAGE</b>
+       <b>Note App</b>
      </p>
  </p>
