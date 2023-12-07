@@ -4,3 +4,9 @@
 
 
 
+<p align="center">
+     <img src="Notes App.gif">
+      <p align="center">
+       <b>HOME PAGE</b>
+     </p>
+ </p>
