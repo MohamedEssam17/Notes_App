@@ -5,7 +5,7 @@
 
 
 <p align="center">
-     <img src="Notes App.gif" width="365px">
+     <img src="Notes App.gif" height="450px">
       <p align="center">
        <b>Note App</b>
      </p>
